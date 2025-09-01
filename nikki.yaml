@@ -158,10 +158,8 @@ dns:
   fake-ip-filter-mode: blacklist
   respect-rules: true
   default-nameserver:
-    - 211.138.245.180
-    - 211.138.240.100
-    - 202.103.225.68
-    - 202.103.224.68
+    - 119.29.29.29
+    - 223.5.5.5
   proxy-server-nameserver:
     - https://223.5.5.5/dns-query
     - https://223.6.6.6/dns-query
